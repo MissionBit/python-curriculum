@@ -1,4 +1,4 @@
-#Exercise 1
+# Exercise 1
 
 # We've defined the variable "meal" here to the name of the food we ate for breakfast!
 meal = "An english muffin"
@@ -19,16 +19,16 @@ print(meal)
 print("Dinner:")
 print(meal)
 
-#Exercise 2
+# Exercise 2
 
-#Time for a weather report
+# Time for a weather report
 weather = "Sunny"
 temperature = "75"
 
-#Print weather
+# Print weather
 print("Weather is " + weather + "and" + temperature + "degrees")
 
-#Check what the weather is outside and update weather and temperature
+# Check what the weather is outside and update weather and temperature
 
-#Print weather
+# Print weather
 print("Weather now is " + weather + "and" + temperature + "degrees")
