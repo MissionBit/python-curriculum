@@ -17,3 +17,8 @@ for row in range(0, rows):
     for seat in range(0, seats_in_row):
         if seats[row][seat] != "sold":
             seats[row][seat] = "sold"
+
+
+# RUN CODE BY TYPING THIS IN THE CONSOLE: 
+
+# python3 week5/find_open_tickets.py

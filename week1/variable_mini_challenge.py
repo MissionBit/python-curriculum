@@ -32,3 +32,8 @@ print("Weather is " + weather + "and" + temperature + "degrees")
 
 # Print weather
 print("Weather now is " + weather + "and" + temperature + "degrees")
+
+
+# RUN CODE BY TYPING THIS IN THE CONSOLE: 
+
+# python3 week1/variable_mini_challenge.py

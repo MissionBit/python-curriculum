@@ -30,3 +30,8 @@ my_account.add_server("Social")
 # Now your account has two friends and two servers!
 print(my_account.friends_list)
 print(my_account.server_list)
+
+
+# RUN CODE BY TYPING THIS IN THE CONSOLE: 
+
+# python3 week3/discord.py

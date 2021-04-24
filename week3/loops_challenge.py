@@ -157,3 +157,8 @@
 # Uncomment the lines below when your function is done
 # print(reversed_list([1, 2, 3], [3, 2, 1]))
 # print(reversed_list([1, 5, 3], [3, 2, 1]))
+
+
+# RUN CODE BY TYPING THIS IN THE CONSOLE: 
+
+# python3 week3/loops_challenge.py

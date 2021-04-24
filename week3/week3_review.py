@@ -30,3 +30,8 @@
 #Write your code here:
 
 #PRINT: You should be an author!
+
+
+# RUN CODE BY TYPING THIS IN THE CONSOLE: 
+
+# python3 week3/week3_review.py

@@ -22,3 +22,6 @@ my_schedule = []
 my_schedule = ['Band', 'English', 'Math', 'Computer Science', 'Chemistry']
 
 
+# RUN CODE BY TYPING THIS IN THE CONSOLE: 
+
+# python3 week7/week7_review.py

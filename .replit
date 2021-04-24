@@ -1,2 +1,2 @@
 language = "python3"
-run = ""
+run = "week4/dictionaries_challenge.py"

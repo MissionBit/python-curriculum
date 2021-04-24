@@ -19,3 +19,8 @@
 # and print out a message such as "<RESTAURANT 1> is the closest restaurant".
 
 # YOUR CODE HERE
+
+
+# RUN CODE BY TYPING THIS IN THE CONSOLE: 
+
+# python3 week4/black_owned_restaurants.py

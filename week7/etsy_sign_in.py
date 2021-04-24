@@ -19,3 +19,7 @@ def sign_in_to_etsy():
 
 # Now sign in!
 sign_in_to_etsy()
+
+# RUN CODE BY TYPING THIS IN THE CONSOLE: 
+
+# python3 week7/etsy_sign_in.py

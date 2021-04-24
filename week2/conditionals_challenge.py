@@ -47,3 +47,8 @@
 # Hint: use elif
 
 # Write your code here
+
+
+# RUN CODE BY TYPING THIS IN THE CONSOLE: 
+
+# python3 week2/conditionals_challenge.py

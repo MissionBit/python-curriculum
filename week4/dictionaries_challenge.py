@@ -120,3 +120,6 @@
 #should print out all email addresses of contacts
 
 
+# RUN CODE BY TYPING THIS IN THE CONSOLE: 
+
+# python3 week4/dictionaries_challenge.py

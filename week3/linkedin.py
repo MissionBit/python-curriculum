@@ -18,3 +18,8 @@ print(my_experiences)
 
 # Now you will get High School AND College
 print(my_education)
+
+
+# RUN CODE BY TYPING THIS IN THE CONSOLE: 
+
+# python3 week3/linkedin.py

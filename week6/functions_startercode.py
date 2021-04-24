@@ -253,3 +253,6 @@ flight_schedule = {"Monday" : ['New York', 'Los Angeles', 'San Francisco', 'Lond
 
 
 
+# RUN CODE BY TYPING THIS IN THE CONSOLE: 
+
+# python3 week6/functions_startercode.py

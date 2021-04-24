@@ -20,3 +20,8 @@ donate(100)
 donate(25)
 
 # You now have $135 in donations!
+
+
+# RUN CODE BY TYPING THIS IN THE CONSOLE: 
+
+# python3 week7/donation.py

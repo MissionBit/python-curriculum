@@ -8,3 +8,8 @@ schedules ={"Alex" : ['Tuesday', 'Thursday', 'Friday'],"Brian" : ['Monday', 'Wed
 "Diana" : ['Tuesday', 'Wednesday', 'Thursday', 'Friday'], 
 "Ethan" : ['Monday'], 
 "Gianna" : ['Monday', 'Tuesday', 'Wednesday']}
+
+
+# RUN CODE BY TYPING THIS IN THE CONSOLE: 
+
+# python3 week6/week6_review.py
