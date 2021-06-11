@@ -8,6 +8,7 @@ import rumps
 
 class PomodoroTimer(rumps.App):
   def __init__(self):
+    '''This method is called when the application starts.'''
     super(PomodoroTimer, self).__init__('🍅')
     # TODO: Uncomment the lines below and fill them in.
     # self.is_timer_running =
