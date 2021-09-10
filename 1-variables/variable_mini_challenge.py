@@ -26,9 +26,9 @@ weather = "Sunny"
 temperature = "75"
 
 # Print weather
-print("Weather is " + weather + "and" + temperature + "degrees")
+print("Weather is " + weather + " and " + temperature + " degrees")
 
 # Check what the weather is outside and update weather and temperature
 
 # Print weather
-print("Weather now is " + weather + "and" + temperature + "degrees")
+print("Weather now is " + weather + " and " + temperature + " degrees")
