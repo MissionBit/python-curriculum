@@ -1,4 +1,4 @@
-# Example of API
+# Real Life Example of API. No coding, just explain
 
 # You want to ask for a donation for your pet rescue but don't have code to transfer money to your
 # nonprofit. Use Paypal!

@@ -1,4 +1,4 @@
-# Example of DICTIONARY
+# Real Life Example of DICTIONARY. No coding, just explain
 
 # You want to create a pricebook for your store so when people click on one of your products they
 # can see a price!

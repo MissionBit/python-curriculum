@@ -1,4 +1,4 @@
-# Example of LISTS
+# Real Life Example of LISTS. No coding, just explain
 
 # You want to set up a linkedin account to have a record of all of your experiences and education
 

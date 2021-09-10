@@ -1,4 +1,4 @@
-# Example of API
+# Real Life Example of API. No coding, just explain
 
 # You want creators to sign in to their etsy account, but you don't want to have to fill out all of
 # the information

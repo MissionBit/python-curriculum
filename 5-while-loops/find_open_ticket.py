@@ -1,4 +1,4 @@
-# Example of DOUBLE FOR LOOP
+# Real Life Example of DOUBLE FOR LOOP. No coding, just explain
 
 # You are selling tickets for your band concert. You want a way to let people know what the first
 # available seat is

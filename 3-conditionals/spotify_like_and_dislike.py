@@ -1,4 +1,4 @@
-# Example of CONDITIONALS
+# Real Life Example of CONDITIONALS. No coding, just explain
 
 # You want to make spotify a more enjoyable experience, so you give users the option to like and
 # dislike songs you suggest

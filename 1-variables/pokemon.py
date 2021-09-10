@@ -1,5 +1,4 @@
-# Example of VARIABLES
-
+# Real Life Example of VARIABLES. No coding, just explain
 
 # You want to make a Pokemon game, and want people to have a way to choose which Pokemon they would
 # prefer

@@ -1,4 +1,4 @@
-# Example of FUNCTIONS
+# Real Life Example of FUNCTIONS. No coding, just explain
 
 # Among us tasks
 

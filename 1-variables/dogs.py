@@ -1,4 +1,4 @@
-# Example of VARIABLES
+# Real Life Example of VARIABLES. No coding, just explain
 
 # You have a pet rescue and you want people to know what each Dog is like!
 # You create a way to assign playfulness, affection, and shedding level to each different dog

@@ -1,4 +1,4 @@
-# Example of LISTS
+# Real Life Example of LISTS. No coding, just explain
 
 # You want to hang out on Discord with your friends and decide to make an account.
 # Each account comes with an empty list of friends and servers
