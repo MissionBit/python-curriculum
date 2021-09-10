@@ -24,7 +24,7 @@ client.run('YOUR_CLIENT_HERE')
 
 
 '''
-Week 3:
+Week 4:
 Create a discord bot and add the client ID in the “YOUR_CLIENT_HERE” section of discord_bot.py
 
 Instructions to create the bot and find the client ID: https://discord.com/developers/docs/intro
@@ -34,7 +34,7 @@ Extra instructions here: https://www.freecodecamp.org/news/create-a-discord-bot-
 Send a message from the channel in the on_message method
 Play around with on_message and explore the discord variables
 
-Week 4:
+Week 5:
 Send a message prompt in on_message asking for a name and score
 
 Use string parsing to store the name and score in the names dictionary
