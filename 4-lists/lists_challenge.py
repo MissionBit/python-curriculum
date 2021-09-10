@@ -17,7 +17,7 @@ print(lst)
 # ----------------------------------------------------------
 
 # Write a code that prints the last element of the given list that contains more elements. If both
-# lists are the same size, then print the last element of lsit1.
+# lists are the same size, then print the last element of lst1.
 
 lst1 = [4, 10, 2, 5]
 lst2 = [-10, 2, 5, 10]

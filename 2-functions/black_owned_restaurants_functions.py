@@ -12,7 +12,7 @@
 # YOUR CODE HERE
 
 ############################################ Exercise 2 ############################################
-# Functions can even take another function as an input! https://tinyurl.com/iheardyoulikefunctions
+# Functions can even take another function as an input! 
 # For example, the built-in `sorted` function accepts a function named `key` which it will apply to
 # every element of the list before sorting it. Let's say we have the following list of restaurant
 # dictionaries; write code that alphabetizes that list by restaurant name and prints it out.

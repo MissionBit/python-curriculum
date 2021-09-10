@@ -3,6 +3,9 @@
 # You want to make spotify a more enjoyable experience, so you give users the option to like and
 # dislike songs you suggest
 
+# `pass` below is a statement that Python ignores. It is needed inside these functions because they
+# do not have any code in them otherwise. Empty functions are not allowed in Python, and so we put
+# the `pass` statement inside the function to avoid the error.
 
 # Spotify functionality
 def play_song():
