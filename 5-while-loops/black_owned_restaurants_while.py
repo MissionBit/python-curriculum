@@ -18,8 +18,3 @@
 # Update your code above to print "Please enter a choice." if the user did not type anything.
 
 # YOUR CODE HERE
-
-
-# RUN CODE BY TYPING THIS IN THE CONSOLE: 
-
-# python3 week5/black_owned_restaurants.py

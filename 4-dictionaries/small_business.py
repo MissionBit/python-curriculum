@@ -17,8 +17,3 @@ print("Price of t_shirt is: " + my_product_prices.get("t_shirt"))
 print("Price of sweatshirt is: " + my_product_prices.get("sweatshirt"))
 # Someone clicks on the face_mask! Call the code to get and print the price
 print("Price of face_mask is: " + my_product_prices.get("face_mask"))
-
-
-# RUN CODE BY TYPING THIS IN THE CONSOLE: 
-
-# python3 week4/small_business.py

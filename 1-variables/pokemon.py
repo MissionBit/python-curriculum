@@ -20,7 +20,3 @@ class Pokemon:
 pikachu = Pokemon(55, 40, 90, 35)
 bulbasaur = Pokemon(49, 49, 45, 45)
 charmander = Pokemon(52, 43, 65, 39)
-
-# RUN CODE BY TYPING THIS IN THE CONSOLE: 
-
-# python3 week1/pokemon.py

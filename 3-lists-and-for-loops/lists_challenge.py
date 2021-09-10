@@ -86,8 +86,3 @@ max_name = ""
 # Write your code here
 
 print(max_name)
-
-
-# RUN CODE BY TYPING THIS IN THE CONSOLE: 
-
-# python3 week3/lists_challenge.py

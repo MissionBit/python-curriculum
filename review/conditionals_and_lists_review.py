@@ -8,7 +8,3 @@
 #LIST OF CHORES: Clean room, Homework, Study Python, Homework, Volunteer, Laundry, Plan next week
 #USER INPUT: Tuesday
 #PRINT: Study Python
-
-# RUN CODE BY TYPING THIS IN THE CONSOLE: 
-
-# python3 week4/week4_review.py

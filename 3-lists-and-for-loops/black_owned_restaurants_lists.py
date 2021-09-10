@@ -34,8 +34,3 @@
 # 3. <RESTAURANT 3> is 10.2 miles away
 
 # YOUR CODE HERE
-
-
-# RUN CODE BY TYPING THIS IN THE CONSOLE: 
-
-# python3 week3/black_owned_restaurants.py

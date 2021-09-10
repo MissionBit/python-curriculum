@@ -44,8 +44,3 @@
 
 ############################################ Exercise 5 ############################################
 # You should now know enough to build the full project :) Happy coding!
-
-
-# RUN CODE BY TYPING THIS IN THE CONSOLE: 
-
-# python3 week7/black_owned_restaurants.py

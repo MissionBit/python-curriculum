@@ -21,7 +21,3 @@
 # https://www.google.com/maps/search/black+owned+restaurants
 
 # YOUR CODE HERE
-
-# RUN CODE BY TYPING THIS IN THE CONSOLE: 
-
-# python3 week1/black_owned_restaurants.py

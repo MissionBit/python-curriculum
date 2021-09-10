@@ -19,7 +19,3 @@ class Dog:
 golden_retriever = Dog(10, 10, 10)
 pug = Dog(6, 9, 3)
 poodle = Dog(4, 10, 1)
-
-# RUN CODE BY TYPING THIS IN THE CONSOLE: 
-
-# python3 week1/dogs.py

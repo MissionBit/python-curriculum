@@ -32,8 +32,3 @@ if (song_review == "Like"):
 elif (song_review == "Dislike"):
     # If they disliked it, skip the song
     skip_song()
-
-
-# RUN CODE BY TYPING THIS IN THE CONSOLE: 
-
-# python3 week2/spotify_like_and_dislike.py

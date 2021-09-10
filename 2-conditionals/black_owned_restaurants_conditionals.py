@@ -7,8 +7,3 @@
 # "Please choose either 'takeout' or 'delivery'."
 
 # YOUR CODE HERE
-
-
-# RUN CODE BY TYPING THIS IN THE CONSOLE: 
-
-# python3 week2/black_owned_restaurants.py

@@ -42,7 +42,3 @@ navigation()
 electrical()
 # You see a dead body. Report!
 report_body()
-
-# RUN CODE BY TYPING THIS IN THE CONSOLE: 
-
-# python3 week6/among_us.py

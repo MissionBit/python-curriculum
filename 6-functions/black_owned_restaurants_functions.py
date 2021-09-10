@@ -34,8 +34,3 @@ restaurants = [
 # out the resulting list.
 
 # YOUR CODE HERE
-
-
-# RUN CODE BY TYPING THIS IN THE CONSOLE: 
-
-# python3 week6/black_owned_restaurants.py
