@@ -1,36 +1,35 @@
 # Black-Owned Restaurant Finder: Functions exercises
 
 ############################################ Exercise 1 ############################################
-# With functions, we can generalize the code that we wrote from the previous while-loop exercise to
-# ask the user *any* question and make sure they choose from *any* list of options. Using your code
-# from the previous exercise, write a function that accepts a prompt and a list of options. The
-# function should repeatedly ask the user the prompt until the user has typed in one of the options,
-# at which point the function should return what the user typed in. Use your function to ask the
-# user whether they would like takeout or delivery, then to ask which cuisine they would like (for
-# the cuisine question, come up with a list of 3 supported cuisines).
+# Let's imagine that we want to calculate the distance between two points on a grid: the coordinates
+# for your home (home_x, home_y) and the coordinates for a restaurant (restaurant_x, restaurant_y).
+# Write a function that takes in these 4 arguments and returns the Euclidean distance between the
+# two points using this formula:
+#
+#                     √(home_x - restaurant_x)^2 + (home_y - restaurant_y)^2
 
-# YOUR CODE HERE
+def calculate_distance(home_x, home_y, restaurant_x, restaurant_y):
+  # REPLACE "pass" WITH YOUR CODE
+  pass
+
+print(calculate_distance(0, 0, 5, 5))
 
 ############################################ Exercise 2 ############################################
-# Functions can even take another function as an input! 
-# For example, the built-in `sorted` function accepts a function named `key` which it will apply to
-# every element of the list before sorting it. Let's say we have the following list of restaurant
-# dictionaries; write code that alphabetizes that list by restaurant name and prints it out.
-# Documentation here: https://docs.python.org/3/howto/sorting.html#key-functions
+# Write a function that takes in 3 restaurant names and 3 distances, then prints out 3 lines in the
+# following format (the actual distances may vary):
+#
+# 1. Brown Sugar Kitchen is 7.1 miles away
+# 2. alaMar Kitchen & Bar is 10.6 miles away
+# 3. Kingston 11 Cuisine is 3.6 miles away
 
-restaurants = [
-  { "Name": "Brown Sugar Kitchen", "Distance": 8.2 },
-  { "Name": "AlaMar Kitchen & Bar", "Distance": 5.0 },
-  { "Name": "Kingston 11 Cuisine", "Distance": 1.3 },
-  { "Name": "Zella's Soulful Kitchen", "Distance": 2.0 },
-  { "Name": "Roux", "Distance": 4.7 },
-  { "Name": "Chakula Eats", "Distance": 3.1 },
-]
+def print_distances(restaurant1, distance1, restaurant2, distance2, restaurant3, distance3):
+  # REPLACE "pass" WITH YOUR CODE
+  pass
 
-# YOUR CODE HERE
-
-############################################ Exercise 3 ############################################
-# Now, instead of sorting the list of restaurants alphabetically, sort them by distance and print
-# out the resulting list.
-
-# YOUR CODE HERE
+distance1 = calculate_distance(0, 0, 5, 5)
+distance2 = calculate_distance(0, 0, 7, 8)
+distance3 = calculate_distance(0, 0, 3, 2)
+print_distances(
+  'Brown Sugar Kitchen', distance1,
+  'alaMar Kitchen & Bar', distance2,
+  'Kingston 11 Cuisine', distance3)
