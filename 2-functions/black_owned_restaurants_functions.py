@@ -4,9 +4,14 @@
 # Let's imagine that we want to calculate the distance between two points on a grid: the coordinates
 # for your home (home_x, home_y) and the coordinates for a restaurant (restaurant_x, restaurant_y).
 # Write a function that takes in these 4 arguments and returns the Euclidean distance between the
-# two points using this formula:
+# two points using the distance formula from pre-calculus:
 #
 #                     √(home_x - restaurant_x)^2 + (home_y - restaurant_y)^2
+# Hint: Square roots are the same as taking half an exponent, so to take the square root of the above
+#       raise everything to the power of 0.5
+#
+# Hint: ^ means to take the exponent of something in most programming languages, but not Python. 
+#       Use the correct exponent operator in your function
 
 def calculate_distance(home_x, home_y, restaurant_x, restaurant_y):
   # REPLACE "pass" WITH YOUR CODE
