@@ -8,7 +8,7 @@
 #
 #                     √(home_x - restaurant_x)^2 + (home_y - restaurant_y)^2
 # Hint: Square roots are the same as taking half an exponent, so to take the square root of the above
-#       multiply everything to the power of 0.5
+#       raise everything to the power of 0.5
 #
 # Hint: ^ means to take the exponent of something in most programming languages, but not Python. 
 #       Use the correct exponent operator in your function
