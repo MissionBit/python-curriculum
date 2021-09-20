@@ -1,5 +1,3 @@
-import math
-
 # Black-Owned Restaurant Finder: Functions exercises
 
 ############################################ Exercise 1 ############################################
@@ -9,11 +7,11 @@ import math
 # two points using the distance formula from pre-calculus:
 #
 #                     √(home_x - restaurant_x)^2 + (home_y - restaurant_y)^2
-# Hint: To take the square root (the check mark above), use sqrt(...) where ... is what you want to
-#       take the square root of. sqrt() is part of the math module. We will discuss modules later.
+# Hint: Square roots are the same as taking half an exponent, so to take the square root of the above
+#       multiply everything to the power of 0.5
 #
 # Hint: ^ means to take the exponent of something in most programming languages, but not Python. 
-#       Use the correct exponent operator in your function 
+#       Use the correct exponent operator in your function
 
 def calculate_distance(home_x, home_y, restaurant_x, restaurant_y):
   # REPLACE "pass" WITH YOUR CODE
