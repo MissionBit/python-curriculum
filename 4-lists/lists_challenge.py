@@ -2,87 +2,107 @@
 # Challenge 1: Append Sum
 # ----------------------------------------------------------
 
-# Write code that adds the last two elements of the given list together and appends the result to
-# the list. It should do this process three times and then print lst.
+# Write a function that accepts a list called `numbers` and adds the last two elements of `numbers`
+# together and appends the result to `numbers`. For example, if the list started as [1, 1, 2], 
+# calling this function three times would produce [1, 1, 2, 3, 5, 8].
 
-# For example, if the list started as [1, 1, 2], the final result should be [1, 1, 2, 3, 5, 8].
+def add_and_append(numbers):
+  # REPLACE "pass" WITH YOUR CODE
+  pass
 
-lst = [1, 1, 2]
-# Write your code here
-
-print(lst)
+numbers = [1, 1, 2]
+add_and_append(numbers)
+add_and_append(numbers)
+add_and_append(numbers)
+print(numbers)
 
 # ----------------------------------------------------------
 # Challenge 2: Larger List
 # ----------------------------------------------------------
 
-# Write a code that prints the last element of the given list that contains more elements. If both
-# lists are the same size, then print the last element of lst1.
+# Write a function that accepts two parameters (`list1` and `list2`) and prints the last element of
+# whichever list that contains more elements. If both lists are the same size, it should print the
+# last element of `list1`.
 
-lst1 = [4, 10, 2, 5]
-lst2 = [-10, 2, 5, 10]
-# Write your code here
+list1 = [4, 10, 2, 5]
+list2 = [-10, 2, 5, 10]
+
+def last_element_of_larger_list(list1, list2):
+  # REPLACE "pass" WITH YOUR CODE
+  pass
+
+last_element_of_larger_list(list1, list2)
 
 # ----------------------------------------------------------
 # Challenge 3: More Than N
 # ----------------------------------------------------------
 
-# Write code that prints True if item appears in the list more than n times. The code should print
-# False otherwise.
+# Write a function that accepts three parameters: `numbers`, `item`, and `n`. The function should
+# print True if `item` appears in `numbers` more than `n` times, and False otherwise.
 
-lst = [2, 4, 6, 2, 3, 2, 1, 2]
+def more_than_n(numbers, item, n):
+  # REPLACE "pass" WITH YOUR CODE
+  pass
+
+numbers = [2, 4, 6, 2, 3, 2, 1, 2]
 item = 2
 n = 3
-# Write your code here
+more_than_n(numbers, item, n)
 
-# ----------------------------------------------------------
+#----------------------------------------------------------
 # Challenge 4: Append Size
-# ----------------------------------------------------------
+#----------------------------------------------------------
 
-# Write code that appends the size of lst to the end of lst. The code should then print this new
-# list.
+# Write a function that accepts a list called `numbers` and appends the size of `numbers` to the end
+# of `numbers`. The function should then print this new list. For example, if `numbers` was
+# [23, 42, 108], the code should print [23, 42, 108, 3] because the size of `numbers` was 3.
 
-# For example, if lst was [23, 42, 108], the code should print [23, 42, 108, 3] because the size of
-# lst was originally 3.
+def append_size(numbers):
+  # REPLACE "pass" WITH YOUR CODE
+  pass
 
-lst = [23, 42, 108]
-# Write your code here
+numbers = [23, 42, 108]
+append_size(numbers)
 
-print(lst)
-
-# ----------------------------------------------------------
+#----------------------------------------------------------
 # Challenge 5: Combine Sort
-# ----------------------------------------------------------
+#----------------------------------------------------------
 
-# Write code that combines these two lists into one new list and sort the result. Print the new
+# Write a function that combines two lists into one new list, sorts the result, and returns the new
 # sorted list.
 
-lst1 = [4, 10, 2, 5]
-lst2 = [-10, 2, 5, 10]
-# Write your code here
+def combine_and_sort(list1, list2):
+  # REPLACE "pass" WITH YOUR CODE
+  pass
 
-# ----------------------------------------------------------
+list1 = [4, 10, 2, 5]
+list2 = [-10, 2, 5, 10]
+print(combine_and_sort(list1, list2))
+
+#----------------------------------------------------------
 # Challenge 6: Average age
-# ----------------------------------------------------------
+#----------------------------------------------------------
 
-# Fill the list "presidents" with of all of the ages of the last 5 presidents. Write code that finds
-# the average age of all of the presidents using this list.
+# Write a function that accepts a list of president ages, then returns the average age of those
+# presidents. Call the function with the ages of the last 5 presidents.
 
-presidents = [46, 54, 47, 70, 78]
-total_age = 0
-# Write your code here
+def average_president_age(president_ages):
+  # REPLACE "pass" WITH YOUR CODE
+  pass
 
-print(total_age / 5)
+president_ages = [46, 54, 47, 70, 78]
+print(average_president_age(president_ages))
 
-# ----------------------------------------------------------
+#----------------------------------------------------------
 # Challenge 7: Name lengths
-# ----------------------------------------------------------
+#----------------------------------------------------------
 
-# Fill the list "friends" with the name of 5 friends. Use a loop to find out who has the longest
-# name.
+# Write a function that accepts a list of names, and returns the longest name in the list. Call the
+# function with the names of 5 friends.
 
-friends = ["Leslie", "Ron", "Ann", "April", "Donna"]
-max_name = ""
-# Write your code here
+def longest_name(names):
+  # REPLACE "pass" WITH YOUR CODE
+  pass
 
-print(max_name)
+names = ["Leslie", "Ron", "Ann", "April", "Donna"]
+print(longest_name(names))
