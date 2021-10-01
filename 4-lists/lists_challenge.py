@@ -21,11 +21,23 @@ print(numbers)
 # Challenge 2: Larger List
 # ----------------------------------------------------------
 
-# Did you know that many of the world's first programmers were women and that their contributions
-# helped end World War II and get John Glenn safely into orbit around the Earth? Learn more about
-# these incredible women below: 
-# ENIAC programmers: https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html
-# The real Black Women behind "Hidden Figures": https://www.nasa.gov/modernfigures
+# BACKGROUND: The Secret History of Women in Coding and the Human Computers of NASA
+
+# Did you know that many of the modern world's first programmers were women and that their contributions
+# ranged from helping to end World War II to creating the first compilers and debuggers to getting John Glenn
+# safely into orbit around the Earth and back? Learn more about these incredible women and more about why 
+# programming went from a field filled with women to a field dominated by men -- and what is being done to 
+# correct this today: The Secret History of Women in Coding: 
+#     https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html
+
+# You may have heard of, or even watched the movie "Hidden Figures", the story of three Black women
+# who -- at a time when "computer" was a term for a person who computes -- were the human computers
+# that helped propel the United States into the space race of the 1960's. Famously John Glenn
+# himself was wary of the calculations a new electronic computer had done for the orbit trajectory
+# and had so much confidence in Katherine Johnson in particular that he asked that she check the machine's
+# calculations before Friendship 7 made its historic flight.
+# The real Black Women behind "Hidden Figures": 
+#     https://www.nasa.gov/modernfigures
 
 # Write a function that accepts two parameters (`list1` and `list2`) and prints the last element of
 # whichever list that contains more elements. If both lists are the same size, it should print the
