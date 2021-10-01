@@ -32,7 +32,7 @@ print(numbers)
 
 # You may have heard of, or even watched the movie "Hidden Figures", the story of three Black women
 # who -- at a time when "computer" was a term for a person who computes -- were the human computers
-# that helped propel the United States into the space race of the 1960's. Famously John Glenn
+# that helped propel the United States into the Space Race of the 1960's. Famously John Glenn
 # himself was wary of the calculations a new electronic computer had done for the orbit trajectory
 # and had so much confidence in Katherine Johnson in particular that he asked that she check the machine's
 # calculations before Friendship 7 made its historic flight.
@@ -45,6 +45,7 @@ print(numbers)
 
 # You may see lists coded in either of the following two ways -- both are accepted by Python!
 
+# these women were the programmers of the ENIAC: Electronic Numerical Integrator And Computer
 # Each element on its own line
 eniac_programmers = [
     "Kathleen McNulty", 
@@ -55,6 +56,7 @@ eniac_programmers = [
     "Ruth Lichterman"
     ]
 
+# These women helped propel the United States into the Space Race of the 1960's
 # elements continue one after the other
 nasa_human_computers = ["Mary W. Jackson", "Katherine Johnson", "Dorothy Vaughan"]
 
